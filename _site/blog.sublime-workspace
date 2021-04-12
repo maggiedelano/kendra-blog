@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package controll",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kendra/Documents/GitHub/blog/index.markdown",
+		"/Users/kendra/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/kendra/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kendra/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kendra/Documents/GitHub/blog/_config.yml",
+		"/Users/kendra/Documents/Website/chathamhouse.md",
+		"/Users/kendra/Documents/OneDrives for Syncing/Harvard University/HLSClin-Cyberlaw - Documents/Projects/Autostraddle/CopyrightRegistration.cgi",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/index.html",
+		"/Users/kendra/Dropbox/kendraBlog/_config.yml",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/transpassport.html",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/talks.html",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/Gender.html",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/allyskills.html",
+		"/Users/kendra/Documents/GitHub/Kserra.github.io/ACL.html",
+		"/Users/kendra/Dropbox/Kendra CV/service.tex",
+		"/Users/kendra/Dropbox/Kendra CV/speaking.tex",
+		"/Users/kendra/Dropbox/Kendra CV/honors.tex",
+		"/Users/kendra/Dropbox/Kendra CV/teaching.tex",
+		"/Users/kendra/Dropbox/Kendra CV/KendraCV.tex",
+		"/Users/kendra/Dropbox/Kendra CV/pressMedia.tex",
+		"/Users/kendra/Dropbox/Kendra CV/publications.tex",
+		"/Users/kendra/Dropbox/Kendra CV/experience.tex",
+		"/Users/kendra/Dropbox/Kendra CV/workshops.tex",
+		"/Users/kendra/Documents/Website/Kserra.github.io/allyskills.html",
+		"/Users/kendra/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/ChildBedConfig/config.json",
+		"/Users/kendra/Documents/Website/Kserra.github.io/talks.html",
+		"/Users/kendra/Documents/Website/Kserra.github.io/ACL.html",
+		"/Users/kendra/Documents/Website/Kserra.github.io/index.html",
+		"/Users/kendra/Dropbox/Kendra CV/writing.tex",
+		"/Users/kendra/Dropbox/Kendra Cyberlaw Clinic Resume/speaking.tex",
+		"/Users/kendra/Documents/Website/Kserra.github.io/Gender.html",
+		"/Users/kendra/Documents/Website/Kserra.github.io/transpassport.html",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/General In-House Resume/workshops.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Cyberlaw Clinic/Kendra Cyberlaw Clinic Resume/speaking.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Cyberlaw Clinic/Kendra Cyberlaw Clinic Resume/KendraCV.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/General In-House Resume/KendraCV.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/General In-House Resume/experience.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Kendra Discord Resume/KendraCV.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Kendra Discord Resume/honors.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Kendra Discord Resume/speaking.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Kendra Discord Resume/experience.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Twitter/Kendra Twitter Resume/speaking.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Cyberlaw Clinic/Kendra Cyberlaw Clinic Resume/experience.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Twitter/Kendra Twitter Resume/service.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Twitter/Kendra Twitter Resume/experience.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Twitter/Kendra Twitter Resume/teaching.tex",
+		"/Users/kendra/Documents/Personal Work/Applications for Things/Job Applications/Kendra Twitter Resume/experience.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/service.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/teaching.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/courts.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/speaking.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/KendraCV.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/education.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/experience.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/publications.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/writing.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/pressMedia.tex",
+		"/Users/kendra/Dropbox/Kendra Resume/honors.tex",
+		"/Users/kendra/Downloads/Fwd  FW  Max Sync Video.msg",
+		"/Users/kendra/Downloads/Fwd  FW  Max Sync Video.msg.eml",
+		"/Users/kendra/Documents/Website/Kserra.github.io/PGPKey.html",
+		"/private/var/folders/wg/4zvvgz297mb2_5yq63_nld740000gq/T/com.microsoft.Excel/Repair Result to Passport Fees Donation Form (Responses) (1)0.xml",
+		"/Users/kendra/Dropbox/Kendra CV/education.tex",
+		"/Users/kendra/Dropbox/Kendra CV/conferences.tex",
+		"/Users/kendra/Dropbox/Kendra CV/moderncvstylefancy.sty",
+		"/Users/kendra/Dropbox/Kendra CV/Template/template.tex",
+		"/Users/kendra/Documents/LaTeX Stuff/Awesome-CV-master/README.md",
+		"/Library/Frameworks/Libmacgpg.framework/Versions/B/Headers/GPGIgnoredPackets.h",
+		"/Users/kendra/Downloads/littleflocker-master/README.md",
+		"/Users/kendra/Downloads/On Being Out",
+		"/Users/kendra/Documents/Website/Gender.html",
+		"/Users/kendra/Downloads/Lab 1-1.txt",
+		"/Users/kendra/Documents/LaTeX Stuff/Awesome-CV-master/examples/cv/education.tex",
+		"/Users/kendra/Documents/LaTeX Stuff/Awesome-CV-master/awesome-cv.cls",
+		"/Users/kendra/Documents/LaTeX Stuff/Awesome-CV-master/examples/cv.tex",
+		"/Users/kendra/Documents/LaTeX Stuff/Awesome CV/resume.tex"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
