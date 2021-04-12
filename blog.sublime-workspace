@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2021-04-12-evaluating-apologies.markdown",
+			"settings":
+			{
+				"buffer_size": 2953,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -55,6 +64,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/kendra/Documents/GitHub/blog"
+	],
 	"file_history":
 	[
 		"/Users/kendra/Documents/GitHub/blog/index.markdown",
@@ -167,8 +180,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2021-04-12-evaluating-apologies.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -178,7 +220,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
