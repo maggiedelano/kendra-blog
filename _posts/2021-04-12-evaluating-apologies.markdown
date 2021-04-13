@@ -6,7 +6,7 @@ permalink: /apologycriteria/
 
 I wrote this a while ago, but it seems relevant today - these are my own personal criteria for evaluating apologies. 
 
-Apologies from from a person who did or was complicit in a harmful act must be meaningful and consonant with the magnitude of the harm.
+Apologies from a person who did or was complicit in a harmful act must be meaningful and consonant with the magnitude of the harm.
 
 Specifically, in order for me personally to find it meaningful, the apology must include:
 
