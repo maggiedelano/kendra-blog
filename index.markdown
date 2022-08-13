@@ -39,6 +39,6 @@ I also hold an appointment as a lecturer on Studies of Women, Gender, and Sexual
 
 When I'm not working or teaching or writing, I try to make the world suck less. I have a side business facilitating [workshops on anti-oppressive practices](allyskills), and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, cooking, and finding new ways to organize my life.
 
-I tweet at [@KendraSerra](https://twitter.com/KendraSerra). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](Gender). For more info on my background and accomplishments, feel free to peruse my [CV](https://Kserra.github.io/KendraCV.pdf).
+I tweet at [@KendraSerra](https://twitter.com/KendraSerra). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](Gender). For more info on my background and accomplishments, feel free to peruse my [CV](Kendra_CV_8-13-22.pdf).
 
 Photo by Kathy Pham.
