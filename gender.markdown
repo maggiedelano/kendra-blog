@@ -5,6 +5,7 @@
 layout: post
 title: Gender
 permalink: /Gender/
+exclude: true
 ---
 
 **Wait, your pronouns?**  

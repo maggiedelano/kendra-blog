@@ -5,6 +5,7 @@
 layout: page
 title: Ally Skills
 permalink: /allyskills/
+exclude: true
 ---
 
 
