@@ -5,6 +5,22 @@
 layout: home
 ---
 
+<html>
+    <div id="all_together">  
+        <div id="text">
+            <h2>Kendra Albert</h2>
+                Clinical Instructor <br>
+                Cyberlaw Clinic, Harvard Law School <br>
+                <br>
+                <!--Lecturer<br>
+                Studies of Women, Gender and Sexuality, Harvard University<br>-->
+        </div>
+        <div id="headshot">
+            <img src="kendra-headshot.jpeg">
+        </div>
+    </div>
+</html>
+
 Hey there! I’m Kendra, a technology lawyer and a scholar of computing, gender, and society.
 
 By day, I'm a clinical instructor at the Cyberlaw Clinic at Harvard Law School, where I teach students to practice technology law. I am a radical generalist and will work on pretty much anything technology-related. Some recent (public) highlights include:
