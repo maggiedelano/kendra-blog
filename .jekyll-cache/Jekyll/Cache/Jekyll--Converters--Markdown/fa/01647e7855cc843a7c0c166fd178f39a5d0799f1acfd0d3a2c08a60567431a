@@ -1,16 +1,12 @@
-I"<html>
+I"<html>
     <div id="all_together">  
         <div id="text">
-            <h2>Maggie Delano</h2>
-                Assistant Professor <br />
-                Engineering Department <br />
-                Swarthmore College <br />
+            <h2>Kendra Albert</h2>
+                Clinical Instructor <br />
+                Cyberlaw Clinic, Harvard Law School <br />
                 <br />
-                Office: Singer 233 <br />
-                Email: <a href="mailto:mdelano1@swarthmore.edu">mdelano1@swarthmore.edu</a> <br />
-                Phone: 610-328-8295 <br />
-                <br />
-                <i>On Sabbatical Leave For 2021-2022 Academic Year</i>
+                <!--Lecturer<br>
+                Studies of Women, Gender and Sexuality, Harvard University<br>-->
         </div>
         <div id="headshot">
             <img src="kendra-headshot.jpeg" />
@@ -38,9 +34,9 @@
 
 <p>I also hold an appointment as a lecturer on Studies of Women, Gender, and Sexuality at Harvard University, where I teach a class on transgender rights and the law. In 2019, I founded the <a href="https://www.ifrfa.org/">Initiative for a Representative First Amendment (IfRFA)</a>, which provides funding and support for law students from backgrounds tradtionally underrepresented in First Amendment law. I currently serve as IfRFA’s director, working alongside the incredible Jasjot Kaur.</p>
 
-<p>When I’m not working or teaching or writing, I try to make the world suck less. I have a side business facilitating <a href="https://kendraalbert.com/allyskills.html">workshops on anti-oppressive practices</a>, and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, cooking, and finding new ways to organize my life.</p>
+<p>When I’m not working or teaching or writing, I try to make the world suck less. I have a side business facilitating <a href="allyskills">workshops on anti-oppressive practices</a>, and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, cooking, and finding new ways to organize my life.</p>
 
-<p>I tweet at <a href="https://twitter.com/KendraSerra">@KendraSerra</a>. I occasionally blog about things I’ve been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are <a href="./Gender.html">they/them/theirs</a>. For more info on my background and accomplishments, feel free to peruse my <a href="https://Kserra.github.io/KendraCV.pdf">CV</a>.</p>
+<p>I tweet at <a href="https://twitter.com/KendraSerra">@KendraSerra</a>. I occasionally blog about things I’ve been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are <a href="Gender">they/them/theirs</a>. For more info on my background and accomplishments, feel free to peruse my <a href="https://Kserra.github.io/KendraCV.pdf">CV</a>.</p>
 
 <p>Photo by Kathy Pham.</p>
 :ET

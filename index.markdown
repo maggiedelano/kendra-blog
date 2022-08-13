@@ -37,8 +37,8 @@ My scholarship, writing, and speaking focus on questions of digital technology a
 
 I also hold an appointment as a lecturer on Studies of Women, Gender, and Sexuality at Harvard University, where I teach a class on transgender rights and the law. In 2019, I founded the [Initiative for a Representative First Amendment (IfRFA)](https://www.ifrfa.org/), which provides funding and support for law students from backgrounds tradtionally underrepresented in First Amendment law. I currently serve as IfRFA's director, working alongside the incredible Jasjot Kaur.
 
-When I'm not working or teaching or writing, I try to make the world suck less. I have a side business facilitating [workshops on anti-oppressive practices](https://kendraalbert.com/allyskills.html), and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, cooking, and finding new ways to organize my life.
+When I'm not working or teaching or writing, I try to make the world suck less. I have a side business facilitating [workshops on anti-oppressive practices](allyskills), and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, cooking, and finding new ways to organize my life.
 
-I tweet at [@KendraSerra](https://twitter.com/KendraSerra). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](./Gender.html). For more info on my background and accomplishments, feel free to peruse my [CV](https://Kserra.github.io/KendraCV.pdf).
+I tweet at [@KendraSerra](https://twitter.com/KendraSerra). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](Gender). For more info on my background and accomplishments, feel free to peruse my [CV](https://Kserra.github.io/KendraCV.pdf).
 
 Photo by Kathy Pham.
